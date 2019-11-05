@@ -10,7 +10,7 @@
 2. 打开`Windows`任务管理器-进程项，找到`MateBookService.exe`-`Huawei PCManger Widnows Service`，将其结束。
 2. 复制`Util.dll`到`C:\Program Files\Huawei\PCManager`替换原始`Util.dll`。
 3. 打开华为电脑管家，我的手机->立即连接->扫码连接，手机打开华为浏览器扫描确认连接。
-4. 如果功能不正常，可能需要重启一次电脑系统。
+4. 如果功能不正常（提示加载服务），需要重启一次电脑系统。
 
 另：
 电脑管家官网[下载地址](https://consumer-tkb.huawei.com/tkbapp/downloadWebsiteService?websiteId=1697397)
